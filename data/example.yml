@@ -1,0 +1,8 @@
+flat.key.ex:
+  - in.array.key:
+      dup.base.key1: 1
+      dup.base.key2: "foobar"
+flat.foo:
+  - 1
+  - 2
+  - 3
